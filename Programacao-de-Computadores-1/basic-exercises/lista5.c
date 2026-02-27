@@ -2,13 +2,6 @@
 #include <stdlib.h>
 #include <math.h>
 
-/*
-Lista de Exercicios 5
-Autor: Vinicius Ribas Bida
-RA: 25070323
-Data: 07/04/25
-*/
-
 int main()
 {
 /*

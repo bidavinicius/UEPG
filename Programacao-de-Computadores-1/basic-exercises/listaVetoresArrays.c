@@ -2,14 +2,6 @@
 #include <stdlib.h>
 #include <math.h>
 
-
-/*
-Lista de vetores e arrays
-Autor: Vinicius Ribas Bida
-RA: 25070323
-Data: 26/05/2025
-*/
-
 int main()
 {
 /*

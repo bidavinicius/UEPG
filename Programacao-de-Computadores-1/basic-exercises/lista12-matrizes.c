@@ -2,14 +2,6 @@
 #include <stdlib.h>
 #include <math.h>
 
-/*
-Lista de Exercicios 12 - Matrizes
-Autor: Vinicius Ribas Bida
-RA: 25070323
-Data: 02/06/2025
-*/
-
-
 int main()
 {
 /*

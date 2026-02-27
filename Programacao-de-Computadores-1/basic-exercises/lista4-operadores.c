@@ -1,14 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
-Lista 4
-Operadores matemáticos e variáveis 2
-Autor: Vinicius Ribas Bida
-RA: 25070323
-Data: 05/04/2025
-*/
-
 int main()
 {
 /*
@@ -85,7 +77,7 @@ if (denominador != 0) {
     fracao = numerador / denominador;
     printf("O numero racional equivalente e: %f\n", fracao);
 } else {
-    printf("Erro: o denominador não pode ser zero");
+    printf("Erro: o denominador nï¿½o pode ser zero");
 }
 
 

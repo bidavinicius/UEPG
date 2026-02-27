@@ -61,7 +61,7 @@ void exercicio5(float R, float *area, float *volume) {
 
 int main(){
 
-    /*
+    
     exercicio1();
     
     //Exercicio 2
@@ -72,7 +72,7 @@ int main(){
     swap(&a,&b);
 
 
-    Exercicio 3
+    //Exercicio 3
     char string[200];
 
     printf("Digite uma string (ate 200 caracteres): ");
@@ -90,7 +90,7 @@ int main(){
     }
 
 
-    Exercicio 4
+    //Exercicio 4
     int a, b;
     printf("Digite dois valores inteiros: ");
     scanf("%d %d", &a, &b);
@@ -98,7 +98,7 @@ int main(){
     exercicio4(&a, b);
     printf("Depois da funcao: a = %d e b = %d\n", a, b);
 
-    Exercicio 5
+    //Exercicio 5
     float R, area, volume;
     printf("Digite o valor do raio: ");
     scanf("%f", &R);
@@ -107,7 +107,6 @@ int main(){
 
     printf("Area da esfera: %.2f\n", area);
     printf("Volume da esfera: %.2f\n", volume);
-    */
     
 return 0;
 }

@@ -2,14 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-/*
-Lista de Exercicios 10 - Do While
-Autor: Vinicius Ribas Bida
-RA: 25070323
-Data: 12/05/2025
-*/
-
-
 int main()
 {
 /*

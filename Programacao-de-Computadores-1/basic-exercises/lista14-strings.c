@@ -2,13 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-/*
-Lista de Exercícios 14 - Strings
-Nome: Vinicius Ribas Bida
-RA: 25070323
-Data: 16/06/2025
-*/
-
 int main()
 {
 /*

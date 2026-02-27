@@ -2,13 +2,6 @@
 #include <stdlib.h>
 #include <math.h>
 
-/*
-Lista de exercicios 6.1 - Estrutura condicional
-Autor: Vinicius Ribas Bida
-RA: 25070323
-Data: 14/04/2025
-*/
-
 int main()
 {
 /*

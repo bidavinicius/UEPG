@@ -1,12 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define constante 4.94
-/*
-Lista de exercicios 2.2
-Autor: Vinicius Ribas Bida
-RA: 25070323
-Data: 24/03/25
-*/
 
 int main()
 {
